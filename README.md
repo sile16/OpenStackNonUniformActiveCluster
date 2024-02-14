@@ -4,7 +4,7 @@
 
 
 ## Zoning
-| Source Device      | Source WWN         | Target Device       | Port  | Target WWN       |
+| Source Host        | Source Host WWN    | Target FlashArray   | Port  | Port WWN       |
 |--------------------|--------------------|---------------------|-------|------------------|
 | sn1-pool-c07-05    | 21000024ff8ab4ec   | sn1-x90r2-f05-27    | CTO.FC0 | 524A93732763AF00 |
 |                    |                    | sn1-x90r2-f05-27    | CT1.FC0 | 524A93732763AF10 |
